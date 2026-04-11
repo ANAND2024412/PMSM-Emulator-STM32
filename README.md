@@ -15,6 +15,18 @@ Real-time PMSM emulator implemented using STM32 to simulate motor behavior for c
 - Embedded C (HAL)
 - MATLAB/Simulink
 
+  ## 🧠 Modeling & Discretization (MATLAB)
+
+This project includes MATLAB-based discretization of the PMSM model used for real-time implementation.
+
+### 🔹 Key Aspects
+- Continuous to discrete system conversion
+- Control system modeling
+- Preparation for embedded implementation
+
+📁 MATLAB File:
+- `pmsm_discretization.m`
+
 ## Project Presentation
 [View PPT](https://docs.google.com/presentation/d/187vSZsgaTzNSQXqKNJTnW37CNjEcmY5U/edit?usp=drive_link&ouid=111572288223515594527&rtpof=true&sd=true)
 

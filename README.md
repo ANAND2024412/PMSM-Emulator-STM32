@@ -15,5 +15,7 @@ Real-time PMSM emulator implemented using STM32 to simulate motor behavior for c
 - Embedded C (HAL)
 - MATLAB/Simulink
 
+## 📊 Project Presentation
+[View PPT](https://docs.google.com/presentation/d/187vSZsgaTzNSQXqKNJTnW37CNjEcmY5U/edit?usp=drive_link&ouid=111572288223515594527&rtpof=true&sd=true)
 ## Author
 Anand P S

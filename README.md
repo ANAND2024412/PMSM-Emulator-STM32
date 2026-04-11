@@ -24,10 +24,10 @@ Real-time PMSM emulator implemented using STM32 to simulate motor behavior for c
 [Watch Video](https://drive.google.com/file/d/1kTVQ5LuKWJsSmjhzSmKZEco9Rc2XMPnO/view?usp=sharing)
 
 ### 🔹 UI & Discretization
-[Watch Video]((https://drive.google.com/file/d/11eH1nTyIrmoJki5JOa7eKxfCmji1aeJp/view?usp=sharing))
+[Watch Video](https://drive.google.com/file/d/11eH1nTyIrmoJki5JOa7eKxfCmji1aeJp/view?usp=sharing)
 
 ## 📷 Output Preview
-[Video]([https://drive.google.com/file/d/1Ki0mOxjtHV3_Y9H-b5Ruj5jCnnl0EX5P/view?usp=sharing](https://drive.google.com/file/d/11eH1nTyIrmoJki5JOa7eKxfCmji1aeJp/view?usp=sharing))
+[Video]https://drive.google.com/file/d/11eH1nTyIrmoJki5JOa7eKxfCmji1aeJp/view?usp=sharing
 
 
 ## Author

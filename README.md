@@ -41,6 +41,7 @@ This project includes MATLAB-based discretization of the PMSM model used for rea
 ## 📷 Output Preview
 [Video]https://drive.google.com/file/d/11eH1nTyIrmoJki5JOa7eKxfCmji1aeJp/view?usp=sharing
 
-
+## FOC Validation Output
+[View graph png](https://drive.google.com/file/d/1A4iPOy5SUqQMqDftBgq5gqWaCen5XrhK/view?usp=drive_link) 
 ## Author
 Anand P S

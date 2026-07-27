@@ -9,7 +9,7 @@ Real-time PMSM emulator implemented using STM32 to simulate motor behavior for c
 - MATLAB-based discretization for control implementation
 - Simulink FOC model for validation
 - Hardware + software co-design approach
-- 
+ 
 ## Features
 - PWM generation using timers
 - ADC input sensing
